@@ -1,9 +1,12 @@
+import Nav from './components/Nav/Nav'
+
 import './App.css'
+import './assets/scss/main.scss';
 
 const App = () => {
     return (
         <>
-            <h1>Game of the goose</h1>
+            <Nav />
         </>
     )
 }
