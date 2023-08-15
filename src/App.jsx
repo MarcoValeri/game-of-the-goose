@@ -7,7 +7,7 @@ import GameSpace from './components/GameSpace/GameSpace';
 const App = () => {
     return (
         <>
-            <Nav />
+            {/* <Nav /> */}
             <GameSpace />
         </>
     )
