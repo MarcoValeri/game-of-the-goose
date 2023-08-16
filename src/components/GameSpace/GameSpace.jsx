@@ -41,6 +41,22 @@ const GameSpace = () => {
             <Panel number={31} />
             <Panel number={32} />
             <Panel number={33} />
+            <Panel number={34} />
+            <Panel number={35} />
+            <Panel number={36} />
+            <Panel number={37} />
+            <Panel number={38} />
+            <Panel number={39} />
+            <Panel number={40} />
+            <Panel number={41} />
+            <Panel number={42} />
+            <Panel number={43} />
+            <Panel number={44} />
+            <Panel number={45} />
+            <Panel number={46} />
+            <Panel number={47} />
+            <Panel number={48} />
+            <Panel number={49} />
         </div>
     )
 }
