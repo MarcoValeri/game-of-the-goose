@@ -1,8 +1,16 @@
 .game-space {
-    position: relative;
-    width: 98%;
-    height: 60vh;
-    margin: 2rem auto;
-    // padding: 2rem;
-    border: 1px solid #d00;
+    
+    &__table {
+        position: relative;
+        width: 98%;
+        height: 60vh;
+        margin: 2rem auto;
+        // padding: 2rem;
+        border: 1px solid #d00;
+    }
+
+    &__dice {
+        text-align: center;
+    }
 }
+
